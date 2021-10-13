@@ -1,0 +1,27 @@
+.jumbotron {
+  background-color: lightblue;
+  padding: 300px 200px;
+  margin: 2rem;
+}
+.redJumbo {
+  background-color: rgb(252, 120, 120);
+  padding: 300px 200px;
+  margin: 2rem;
+}
+
+.title {
+  margin: 4rem;
+  /* increase pixel size of title */
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 454.5px;
+  width: 641px;
+}
+
+h1 {
+  font-family: "Quicksand", sans-serif;
+}
